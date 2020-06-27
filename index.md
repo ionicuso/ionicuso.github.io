@@ -12,3 +12,5 @@ Nemo starred in a movie of the same name.
 As Nemo said:
 > Is this a fishtank,
 > or what?
+
+<img src="https://www.hwzdigital.ch/files/2018/03/fish-1280x0-c-default.jpeg"/>
